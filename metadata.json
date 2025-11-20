@@ -1,0 +1,5 @@
+{
+  "name": "PropCheck AI",
+  "description": "Automated property due diligence and Encumbrance Certificate (EC) analyzer powered by Gemini.",
+  "requestFramePermissions": []
+}
